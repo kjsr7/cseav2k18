@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "606870135740",
+    "firebase_url": "https://kjsr7-fdb55.firebaseio.com",
+    "project_id": "kjsr7-fdb55",
+    "storage_bucket": "kjsr7-fdb55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606870135740:android:7ec3ab856918a333",
+        "android_client_info": {
+          "package_name": "com.example.sankar.kjsr7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606870135740-7lasnmnr74rdq67ohll9uu5c0558fc20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIo0E6a5Ok5nKHyuWLnok85AtZY68WbaI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

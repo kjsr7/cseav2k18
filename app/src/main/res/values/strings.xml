@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">kjsr7</string>
+    <string name="FCM_PREF">com.example.sankar.kjsr7withappserver.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.sankar.kjsr7withappserver.fcm_token</string>
+    <string name="br"> Do you want to be a stock broker? Are you seriously interested in handling stocks?\n
+Bull Run is a 1-day group event. Bull run is basically a virtual stock market and in a stock market people buy shares or they sell them. All you need is to gather your thoughts, try to analyze the market and be the top stock broker.
+It just not improves your business skills, but it also improvises you on how to tackle the situations and teaches you how to raise from ground zero level and how to take risks. A three -round event in which each one will be an elimination one and it is a good platform to know who is a risk taker and a keen observer.\n
+        \n\n<u><b>Rules and Regulations:</b></u>\n
+1.It is an individual event.\n
+2.This event is open for all and there are no prerequisites for this event.\n
+3.There will be many sectors(companies). At the start of the event there will be plenty of companies in each sector and each company will have some shares. In the beginning each individual will be provided with some virtual money.\n
+4.At any instance a participant can have any number of shares of different sectors.\n
+5.All the transactions such as managing the virtual money, buying the shares, selling the shares should be managed by the participants according to the constraints.\n
+6.It is a 2-round event and each round is an elimination one which is based on no of participants participated.\n
+7. Be prepared to EVOLVE at any point of the time during the event.\n
+8.Further information regarding the event will be informed on the event   time.\n\n
+
+        <u><b>Date and Time:</b></u> 11th Mar,2:00PM-4:00PM\n\n
+<u><b>Venue:</b></u> PSCP ComputerLab,2nd floor Main Block,NITAP\n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n\n\n\n
+
+
+
+    </string>
+
+    <string name="pt">“For good ideas and true innovation, you need human interaction, conflict, argument, debate.”
+- Margaret Heffernan\n\n
+Taking above quotes in mind, we bring you Technical Symposium where your idea will be critically analysed, will be made precise and will be prized.\n
+ \'Papel Technico\' an open paper presentation event held collaborated by departments CSE, ECE, EEE, Civil. A topic related to any of the 4 departments mentioned is to be presented.  A two-round event and a good stage to unveil one’s mask and show the real talent.\n\n
+<u><b>TeamSize :</b></u> Maximum of three per team\n\n
+<u><b>Date and Time</b></u>:12th Mar,11:00AM-12:00AM\n\n
+<u><b>Venue:</b></u>Abdul Kalam Hall Of Learning,NewBlock\n
+    </string>
+
+
+    <string name="pk">“Of course. Treasure hunts make much better stories when there’s treasure at the end.”  -Eric Berlin \n
+It is always fun to dig deeper and gets even more exciting with friends. \n
+Pokehunt is a 1-day event in Vulcanzy 2k18. The game is to be played in groups ,where the group has to solve the riddles. The quickest and the most accurate group wins! Time to explore your campus!
+ The game is made to improve one’s problem solving ability ,develop logics and improve the pressure handling ability. \n
+        \n <u><b>Rules and Regulations:</b></u> \n\n
+
+1. Maximum of two members per team. \n
+
+
+2.Make sure both the participants register to the event in the app separately \n
+3. References from any source are not considered. \n
+4. If anyone found seeking help from other friends (other than your partner), will be disqualified from the event.\n
+5. Mainly when you go to the place just see around and try to find the QR scanner (you may have guessed the location right but you may not be able to find the QR scanner then its ur loss).\n
+6. All the teams will be leading to one place for the Last question.\n
+7. Bonus questions sheet will be given to you once you completed your game.\n
+8.Points for bonus questions will be given based upon your performance.\n
+        \n <u><b>Team Size :</b></u> 2\n
+         \n
+        \n
+        \n
+        \n
+        \n
+        \n\n\n\n
+
+
+    </string>
+    <string name="cb">Do you like to solve a mystery? Do you like to find something out of nothing?\n
+Code burster is a 1-day group event in Vulcanzy 2k18. You have to find clues which will lead you to a simple code. You need to match the output with the correct one. Are you ready to decode the mystery.\n
+
+Get ready to solve 5 mind-bending puzzles, which each lead to an easter egg on the NIT Andhra Pradesh website.\n
+Use these 5 easter eggs to solve the final puzzle on the website and win the game.\n
+
+    \n<u><b>Rules:</b></u>\n
+1) No team participation, only individual participants.\n
+2) Participants will be responsible for acquiring means to access the internet.\n
+3) Revealing solutions to puzzles in any way is forbidden and will result in disqualification.\n
+    \n<u><b>Team Size :</b></u> 1\n
+<u><b>Date and Time</b></u> : 12th Mar ,9:00AM-11:00AM\n
+        \n<u><b>Venue:</b></u> ComputerLab,2nd floor Main Block,NITAP\n
+         \n
+        \n
+        \n
+        \n
+        \n
+        \n\n\n\n
+
+
+    </string>
+    <string name="c">Every event has an inaugural and so does the CSE department for this Vulcanzy 2k18.We will be starting off with COLLOQUIUM.Yes!!as the name suggests it is indeed a meeting. Where all students and faculty gather to inspire others and at the same time learn something new. In this we will be knowing the IQ level, speaking skills, confidence level and the way they interact.\n
+    \n<u><b>Date and Time:</b></u> 11th Mar,9:00AM-11:00AM\n
+\n<u><b>Venue:</b></u>Abdul Kalam Hall Of Learning,NewBlock\n
+
+
+    </string>
+
+
+
+
+</resources>

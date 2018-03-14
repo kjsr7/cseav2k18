@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sankar.kjsr7">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/csea"
+        android:label="CSEAV2K18"
+        android:roundIcon="@drawable/csea"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service android:name=".FcmInstanceIdService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".FcmMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".RegisterAcitivity" />
+        <activity android:name=".UserAreaActivity" />
+        <activity android:name=".EventActivity" />
+        <activity android:name=".mur" />
+        <activity android:name=".ExtraActivity" />
+        <activity android:name=".CodeBustersActivity" />
+        <activity android:name=".ptActivity" />
+        <activity android:name=".pkActivity" />
+        <activity android:name=".cActivity" />
+        <activity android:name=".creditsActivity" />
+        <activity android:name=".brpActivity" />
+        <activity android:name=".pkpActivity" />
+        <activity android:name=".cpActivity" />
+        <activity android:name=".cbpActivity"></activity>
+    </application>
+
+</manifest>
