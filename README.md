@@ -1,0 +1,1 @@
+This app was developed for the students to register for the events happening in the technocultural fest vulcanzy. This app uses php and html files at the backend to manage the students registered in each event. Also, it uses FCM to notify the students about the upcoming events' schedule and venue. It uses VOLLEY library to handle multiple requests from users of the app
